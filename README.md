@@ -1,7 +1,5 @@
 # My-Form-Sheets-Excel-Generator
 
-![Sheets](C:\Users\Victor\Desktop\my-form-sheets\my-form-sheets\public\assets\img\sheetshelp.png)
-
 Features:
 
 Automated Generation: The code in this repository allows for the automated creation of Excel files with form responses, saving time and manual effort.
